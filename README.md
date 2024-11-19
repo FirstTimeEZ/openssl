@@ -1,4 +1,4 @@
-# [`OpenSSL`](https://wiki.openssl.org/index.php/Main_Page) Redistributable
+# [`OpenSSL`](https://wiki.openssl.org/index.php/Main_Page) Library Portable Redistributable
 
 OpenSSL is a versatile tool that can be used for many purposes:
 
