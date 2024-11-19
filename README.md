@@ -9,7 +9,7 @@ OpenSSL is a versatile tool that can be used for many purposes:
 
 # Download
 
-[`Download OpenSSL 3.2.3 3 Sep 2024`](https://github.com/FirstTimeEZ/openssl/raw/refs/heads/main/openssl-3-2-3.zip)
+[`Download OpenSSL 3.2.3 3 Sep 2024`](https://github.com/FirstTimeEZ/openssl/raw/899c6ee03d25e0bc37f3d624969ac5e6018144e0/openssl-3-2-3.zip)
 
 # Command Line Utilities
 
